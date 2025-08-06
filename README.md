@@ -8,7 +8,9 @@
  - learning [Lean](https://lean-lang.org/). The ultimate goal is to try to formalize the proofs in my [Master's thesis](https://macsphere.mcmaster.ca/handle/11375/31564), in Lean.
  - doing some photography on the side. I put some of my photos on [Instagram](https://www.instagram.com/shots_by_fateme/), and some on [Flickr](https://www.flickr.com/photos/shots_by_fateme/).
  - doing some Leetcode.
- - experimenting with modeling and optimizing of supply chain data with [Gurobi](https://www.gurobi.com/).
+
+## Deprecated Projects
+ - experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/).
 
 ## Want to Connect?
  You can reach me on [Linkedin](https://www.linkedin.com/in/fghasemi/), or via my email at \<lastname\>.\<firstname\>33@gmail.com.
