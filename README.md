@@ -10,7 +10,7 @@
  - doing some Leetcode.
 
 ## Deprecated Projects
- - experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/).
+ - experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). See [here](https://github.com/sfzgzs/gurobi-notes).
 
 ## Want to Connect?
  You can reach me on [Linkedin](https://www.linkedin.com/in/fghasemi/), or via my email at \<lastname\>.\<firstname\>33@gmail.com.
