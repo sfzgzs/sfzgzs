@@ -12,9 +12,9 @@ I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgz
  - doing some Leetcode.
 
 ## Deprecated Projects
- - Experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). See [here](https://github.com/sfzgzs/gurobi-notes).
+ - Experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). [See [here](https://github.com/sfzgzs/gurobi-notes).]
 
 ## Want to Connect?
  You can reach me on [Linkedin](https://www.linkedin.com/in/fghasemi/), or via my email at ghasemi[dot]fateme33[at]gmail.com.
  
- Want to see my resume first? See [here](https://github.com/sfzgzs/sfzgzs/blob/main/Fateme_Ghasemi_Resume.pdf).
+ Want to see my resume first? [See [here](https://github.com/sfzgzs/sfzgzs/blob/main/Fateme_Ghasemi_Resume.pdf).]
