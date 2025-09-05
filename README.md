@@ -2,7 +2,7 @@
  My name is pronounced /fa'ti:mə/. I got my Bachelor's degree from the University of Tehran (2017) and my Master's from McMaster University (June 2025), both in Computer Science.
 
  
- In my Master's, I proved the WhileCC-approximability and Acceptability of elementary functions under [Dr. Jeff Zucker](https://www.cas.mcmaster.ca/~zucker/). [See [defence slides](https://github.com/sfzgzs/sfzgzs/blob/d03ce1fab098469903e69d3541c146a54b1d4426/Thesis_Defense_Slides.pdf), [incremental slides](https://github.com/sfzgzs/sfzgzs/blob/d03ce1fab098469903e69d3541c146a54b1d4426/Thesis_Defence_Inc_slides.pdf).]
+ In my Master's, I proved the WhileCC-approximability and Acceptability of elementary functions under [Dr. Jeff Zucker](https://www.cas.mcmaster.ca/~zucker/). [See [defence slides](https://github.com/sfzgzs/sfzgzs/blob/d03ce1fab098469903e69d3541c146a54b1d4426/Thesis_Defense_Slides.pdf), and [incremental slides](https://github.com/sfzgzs/sfzgzs/blob/d03ce1fab098469903e69d3541c146a54b1d4426/Thesis_Defence_Inc_slides.pdf).]
 
 I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgzs/thesis/blob/main/CCC2025_extended_abstract.pdf), [slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-handout.pdf), and [incremental slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-inc.pdf).]
  
