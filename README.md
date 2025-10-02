@@ -9,7 +9,7 @@ I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgz
 ## Currently I am:
  - formalizing the proofs in my [Master's thesis](https://macsphere.mcmaster.ca/handle/11375/31564), in [Lean](https://lean-lang.org/). [See [Here](https://github.com/sfzgzs/whilecc-approximability)]
  - doing some photography on the side. I put some of my photos on [Instagram](https://www.instagram.com/shots_by_fateme/), and some on [Flickr](https://www.flickr.com/photos/shots_by_fateme/).
- - doing some Leetcode.
+ - doing some Leetcode. [See [Here](https://github.com/sfzgzs/leetcode-problems)]
 
 ## Deprecated Projects
  - Experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). [See [here](https://github.com/sfzgzs/gurobi-notes)]
