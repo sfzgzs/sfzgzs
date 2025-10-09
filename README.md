@@ -8,7 +8,7 @@ I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgz
  
 ## Currently I am:
  - formalizing the proofs in my [Master's thesis](https://macsphere.mcmaster.ca/handle/11375/31564), in [Lean](https://lean-lang.org/). [See [Here](https://github.com/sfzgzs/whilecc-approximability)]
- - doing some photography on the side. I put some of my photos on [Instagram](https://www.instagram.com/shots_by_fateme/), and some on [Flickr](https://www.flickr.com/photos/shots_by_fateme/).
+ - doing some photography on the side. [See [Instagram](https://www.instagram.com/shots_by_fateme/), and [Flickr](https://www.flickr.com/photos/shots_by_fateme/)]
  - doing some Leetcode. [See [Here](https://github.com/sfzgzs/leetcode-problems)]
 
 ## Deprecated Projects
@@ -17,4 +17,4 @@ I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgz
 ## Want to Connect?
  You can reach me on [Linkedin](https://www.linkedin.com/in/fghasemi/), or via my email at ghasemi[dot]fateme33[at]gmail[dot]com.
  
- Want to see my resume first? [See [here](https://github.com/sfzgzs/sfzgzs/blob/main/Fateme_Ghasemi_Resume.pdf).]
+ Want to see my resume? [See [here](https://github.com/sfzgzs/sfzgzs/blob/main/Fateme_Ghasemi_Resume.pdf).]
