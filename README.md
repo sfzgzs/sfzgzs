@@ -7,6 +7,7 @@
 I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgzs/thesis/blob/main/CCC2025_extended_abstract.pdf), [slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-handout.pdf), and [incremental slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-inc.pdf).]
  
 ## Currently I am:
+ - celebrating the death of a dictator!
  - a research assistant at McMaster University, working with W. F. Smyth.
  - formalizing the proofs in my [Master's thesis](https://macsphere.mcmaster.ca/handle/11375/31564), in [Lean](https://lean-lang.org/). [See [Here](https://github.com/sfzgzs/whilecc-approximability)]
  - doing some Leetcode. [See [Here](https://github.com/sfzgzs/leetcode-problems)]
