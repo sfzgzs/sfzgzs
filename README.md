@@ -7,11 +7,10 @@
 I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgzs/thesis/blob/main/CCC2025_extended_abstract.pdf), [slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-handout.pdf), and [incremental slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-inc.pdf).]
  
 ## Currently I am:
- - celebrating the death of a dictator!
  - a research assistant at McMaster University, working with W. F. Smyth.
  - formalizing the proofs in my [Master's thesis](https://macsphere.mcmaster.ca/handle/11375/31564), in [Lean](https://lean-lang.org/). [See [Here](https://github.com/sfzgzs/whilecc-approximability)]
  - doing some Leetcode. [See [Here](https://github.com/sfzgzs/leetcode-problems)]
- - doing some photography on the side. [See [Instagram](https://www.instagram.com/shots_by_fateme/), and [Flickr](https://www.flickr.com/photos/shots_by_fateme/)]
+ - doing some photography on the side. [See [Instagram](https://www.instagram.com/shots_by_fateme/), [Flickr](https://www.flickr.com/photos/shots_by_fateme/), and [my page](https://shotsbyfateme.wordpress.com/).]
 
 ## Deprecated Projects
  - Experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). [See [here](https://github.com/sfzgzs/gurobi-notes)]
