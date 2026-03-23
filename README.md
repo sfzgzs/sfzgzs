@@ -13,7 +13,7 @@ I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgz
  - doing some photography on the side. [See [Instagram](https://www.instagram.com/shots_by_fateme/), [Flickr](https://www.flickr.com/photos/shots_by_fateme/), and [my page](https://shotsbyfateme.wordpress.com/).]
 
 ## Deprecated Projects
- - Experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). [See [here](https://github.com/sfzgzs/gurobi-notes)]
+ - [Linear Programming] Experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). [See [here](https://github.com/sfzgzs/gurobi-notes)]
 
 ## Want to Connect?
  You can reach me on [Linkedin](https://www.linkedin.com/in/fghasemi/), or via my email at ghasemi[dot]fateme33[at]gmail[dot]com.
