@@ -4,18 +4,17 @@
  
  In my Master's, I proved the WhileCC-approximability and Acceptability of elementary functions under [Dr. Jeff Zucker](https://www.cas.mcmaster.ca/~zucker/). [See [defence slides](https://github.com/sfzgzs/sfzgzs/blob/d03ce1fab098469903e69d3541c146a54b1d4426/Thesis_Defense_Slides.pdf), and [incremental slides](https://github.com/sfzgzs/sfzgzs/blob/d03ce1fab098469903e69d3541c146a54b1d4426/Thesis_Defence_Inc_slides.pdf)]
 
-I also had a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgzs/thesis/blob/main/CCC2025_extended_abstract.pdf), [slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-handout.pdf), and [incremental slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-inc.pdf).]
-
-I will have a talk in CiE 2026. [Slides coming soon.]
+I gave a talk at CCC 2025. [See [extended abstract](https://github.com/sfzgzs/thesis/blob/main/CCC2025_extended_abstract.pdf), [slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-handout.pdf), and [incremental slides](https://github.com/sfzgzs/thesis/blob/main/CCC-2025/main-inc.pdf).]
+I gave a talk in CiE 2026. [See [extended abstract repo](https://github.com/sfzgzs/cie-2026-extended-abstract), [slides](https://github.com/sfzgzs/cie-2026-slides/blob/main/main.pdf), and [incremental slides](https://github.com/sfzgzs/cie-2026-slides/blob/main/main-inc.pdf)]
  
 ## Currently I am:
- - a research assistant at McMaster University, working with W. F. Smyth.
- - formalizing the proofs in my [Master's thesis](https://macsphere.mcmaster.ca/handle/11375/31564), in [Lean](https://lean-lang.org/). [See [Here](https://github.com/sfzgzs/whilecc-approximability)]
+ - a research assistant at McMaster University, working with Bill Smyth & George Karakostas. (I'll be starting my PhD in Sep 2026.)
  - doing some Leetcode. [See [Here](https://github.com/sfzgzs/leetcode-problems)]
- - doing some photography on the side. [See [Instagram](https://www.instagram.com/shots_by_fateme/), [Flickr](https://www.flickr.com/photos/shots_by_fateme/), and [my page](https://shotsbyfateme.wordpress.com/).]
+ - doing some photography on the side when I get any free time. [See [Instagram](https://www.instagram.com/shots_by_fateme/), [Flickr](https://www.flickr.com/photos/shots_by_fateme/), and [my page](https://shotsbyfateme.wordpress.com/).]
 
 ## Deprecated Projects
  - [Linear Programming] Experimenting with modeling and optimization of supply chain data with [Gurobi](https://www.gurobi.com/). [See [here](https://github.com/sfzgzs/gurobi-notes)]
+ - formalizing the proofs in my [Master's thesis](https://macsphere.mcmaster.ca/handle/11375/31564), in [Lean](https://lean-lang.org/). [See [Here](https://github.com/sfzgzs/whilecc-approximability)]
 
 ## Want to Connect?
  You can reach me on [Linkedin](https://www.linkedin.com/in/fghasemi/), or via my email at ghasemi[dot]fateme33[at]gmail[dot]com.
